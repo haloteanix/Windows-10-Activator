@@ -1,5 +1,7 @@
 # Windows-10-Activator
 
+IF WINDOWS OR GOOGLE SAYS IT'S A VIRUS, DON'T WORRY. WINDOWS DEFENDER LIKES TO PANIC A LOT.
+
 With this software, you can activate Windows 10 at no cost. Some Windows versions won't work with this software.
 This has been tested on my Windows machine and it works fine unless you allow it to have administrator privileges.
 
